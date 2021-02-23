@@ -15,9 +15,7 @@ function Navbar() {
                     <img src={avatar} alt=""/>
                  
                  <div className="icons">
-                    <Link to="test" className="icon-holder">
-                        <FontAwesomeIcon icon={faFacebook} className="icon fb" />
-                    </Link>
+                  
                     <a className="icon-holder" href="https://github.com/iamvishnuappu">
                         <FontAwesomeIcon icon={faGithub} className="icon gh" />
                     </a>
